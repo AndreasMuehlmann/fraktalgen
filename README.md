@@ -2,7 +2,9 @@
 A program to look at fraktals interaktively. Right now only the
 Mandelbrotset can be generated
 
-![alt text](https://github.com/AndreasMuehlmann/functionart/blob/main/results/another_universe.png)
+![alt text](https://github.com/AndreasMuehlmann/fraktalgen/blob/main/pictures/mandelbrotset-green.png)
+
+![alt text](https://github.com/AndreasMuehlmann/fraktalgen/blob/main/pictures/top-mandelbrotset-purple.png)
 
 Author: Andreas Mühlmann
 
