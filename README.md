@@ -20,6 +20,9 @@ repository from the website via the zip-archive (click on the green button).
 ## Usage
 Run the executable for your suited for your OS.
 
+When your on Windows run: ".\target\release\fraktalgen.exe"
+When your on Linux run: ".\target\release\fraktalgen"
+
 You can then move around with "w", "a", "s" and "d".
 
 To zoom in press "i". To zoom out press "o".
